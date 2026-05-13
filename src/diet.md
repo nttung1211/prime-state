@@ -48,7 +48,7 @@
 - Zinc 5mg
 
 ## 10:00 PM
-- Magnesium 100mg
+- Magnesium 200mg
 
 ---
 
