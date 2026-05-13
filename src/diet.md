@@ -1,7 +1,7 @@
 # Daily Meal Plan
 
 ## 5:30 AM – Pre-Workout
-- 20g whey protein isolate
+- 15g whey protein isolate
 - 3g creatine
 - 1 banana
 - 1 tbsp honey
@@ -23,8 +23,9 @@
 
 ## 12:00 PM – Lunch
 - 150g cooked rice
-- 1/2 orange
-- 1 tbsp mung beans
+- 100g yogurt (100mg calcium, 3g protein, 60kcal)
+- 1/2 orange (variants: 50g red bell pepper)
+- 1 tbsp peanut butter
 - 150g broccoli (variants: mustard greens / spinach / kale / amaranth greens / cabbage / potato)
 - 150g beef (variants: lean pork / silkworm pupae / oyster / claim)
 
@@ -37,10 +38,9 @@
 - 30g oats
 
 ## 7:00 PM – Dinner
+- 150g cooked rice
 - 100g yogurt (100mg calcium, 3g protein, 60kcal)
 - 1/2 apple
-- 150g cooked rice
-- 1 tbsp peanut butter
 - 150g choy sum (variants: Winter Melon / Malabar spinach / loofah / water spinach / pumpkin / potato)
 - 150g chicken (variants: shrimp / grass carp / saba / salmon)
 
@@ -48,7 +48,7 @@
 - Zinc 5mg
 
 ## 10:00 PM
-- Magnesium 200mg
+- Magnesium 100mg
 
 ---
 
@@ -56,6 +56,4 @@
 - All food weights are measured raw.
 - Use iodized salt for cooking.
 - All vegetables are boiled.
-
-## Prompts
-- Evaluate calories, protein, fiber, fat, and essential minerals and vitamins needed for muscle gain, fat loss, and overall good health. (66kg, 178cm, 17% body fat, 35 years old, 4 times gym per week, 2 times cardio per week. Goal: 72kg, 12% body fat, 2 years)
+- Assume 1 tbsp cooking oil / day

@@ -1,0 +1,2 @@
+# Prompts
+- Evaluate calories, protein, fiber, fat, and essential minerals and vitamins needed for muscle gain, fat loss, and overall good health. (66kg, 178cm, 17% body fat, 35 years old, 4 times gym per week, 2 times cardio per week. Goal: 72kg, 12% body fat, 2 years)
