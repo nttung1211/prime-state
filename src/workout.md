@@ -7,7 +7,7 @@
 
 ---
 
-# Workout schedule (15 mins warm-up + 60 mins workout) (5:45–7:00 AM)
+# Workout schedule (15 mins warm-up + 60 mins workout)
 
 ## day 1
 
