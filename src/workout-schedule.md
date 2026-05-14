@@ -1,6 +1,4 @@
-# Weekly Workout Plan (Lean Bulk + Conditioning)
-
-## Daily Activity
+# Daily Activity
 
 * 1:30 PM: Walk 500 m
 * 11:30 AM: Climb 200 stairs
@@ -9,7 +7,7 @@
 
 ---
 
-# Workouts (15 mins warm-up + 60 mins workout) (5:45–7:00 AM)
+# Workout schedule (15 mins warm-up + 60 mins workout) (5:45–7:00 AM)
 
 ## day 1
 
