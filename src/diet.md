@@ -1,4 +1,4 @@
-# Daily Meal Plan
+# Daily diet
 
 ## 5:30 AM – Pre-Workout
 - 15g whey protein isolate
