@@ -1,4 +1,5 @@
 # Habits
+Exercise, sleep, real food, sunlight, stress recovery, real social connection and deep work are the pillars of a prime state.
 
 ## Get Morning Sunlight
 
