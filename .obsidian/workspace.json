@@ -178,6 +178,9 @@
   },
   "active": "659df77ea196170e",
   "lastOpenFiles": [
+    "src/negative-management.md",
+    "src/negative.md",
+    "src/emotional.md",
     "src/stress.md",
     "src/hormone/serotonin.md",
     "src/hormone/norepinephrine.md",
@@ -205,8 +208,6 @@
     "src/hormones/dopamine.md",
     "src/hormones",
     "src/chemistry",
-    "src/goals.md",
-    "prompts.md",
-    "src/diet.md"
+    "src/goals.md"
   ]
 }
