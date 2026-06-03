@@ -19,8 +19,8 @@ Learning to read "am I under, at, or over the peak?" is the master skill.
 ## Deliberate practice
 Practicing the specific things, that you feel uncomfortable with, with immediate feedback loop telling you whether you're fixing them.
 
-## Working at the edge of ability
-Errors and struggle at your limit are among the strongest plasticity triggers (strain is a go signal, not a stop signal).
+## Working at the edge of ability + closing loops
+Errors and struggle at your limit are among the strongest plasticity triggers (strain is a go signal, not a stop signal), and deliberately registering "this is done" after efforts builds the dopamine baseline and the serotonin contentment that prevent burnout.
 
 ## Regular exercise (resistance + Zone 2)
 
