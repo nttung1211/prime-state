@@ -1,4 +1,5 @@
 # Happiness According to Science
+Science treats happiness not as one thing but as three distinct components, which often get lumped together in everyday speech yet behave quite differently.
 
 ## 1. Pleasant Feeling
 
