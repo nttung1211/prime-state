@@ -10,11 +10,11 @@
 ## 7:00 AM – Breakfast
 - 2 eggs
 - 100g yogurt (100mg calcium, 3g protein, 60kcal)
-- 1 tbsp chia seeds
+- 10g chia seeds
 - 10 cashew nuts
 - 1 banana
 - 1/2 orange
-- 150g sweet potato
+- 200g sweet potato
 - Vitamin D3 + K2 (1000 IU)
 - Omega-3 (900mg EPA + DHA)
 
